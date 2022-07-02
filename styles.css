@@ -1,1 +1,106 @@
 
+* {
+    margin: 10px;
+    padding: 0;
+}
+body{
+    background-color: rgb(57, 43, 189);
+}
+
+.title {
+    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    background-color: white;
+    border: 13px solid rgb(57, 176, 216);
+    border-radius: 10px;
+
+}
+.title img{
+    width: 113px;
+}
+
+.date {
+    text-align: right;
+}
+
+.address {
+    text-align: left;
+}
+
+.info {
+    border: 6px solid rgb(70, 157, 238);
+    background-color: white;
+    margin: 138px 144px 0px;
+    border-radius: 12px;
+}
+
+.details {
+    margin: 63px 144px 0px;
+    border: 6px solid rgb(70, 157, 238);
+    background-color: white;
+    border-radius: 12px;
+
+}
+
+.details p {
+    font-size: 1.4rem;
+    margin: 44px 0px;
+}
+
+.details ol {
+    margin-top: 1rem;
+
+}
+
+#name {
+    margin: 10px
+}
+
+.detail {
+    margin-bottom: 30px;
+
+}
+
+.rights section {
+    padding-left: 108px;
+    margin: 20px;
+    font-size: 1.3rem;
+}
+table, td, th{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    
+}
+.other-details{
+    margin: 63px 144px 0px;
+    cursor: pointer;
+    border: 6px solid rgb(70, 157, 238);
+    background-color: white;
+    border-radius: 12px;
+
+}
+.other-details p{
+    margin: 0 44px 0px;  
+  font-size: 1.3rem;
+
+}
+.sign{
+   
+font-size: 1.3rem;
+border: 6px solid rgb(70, 157, 238);
+    background-color: white;
+    border-radius: 12px;
+
+text-align: center;
+}
+.btn{
+    color: aliceblue;    
+    margin-left: 694px;
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 10px;
+    padding: 0 20px;
+}
